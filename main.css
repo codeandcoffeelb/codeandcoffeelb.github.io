@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: 'Helvetica'
+}
+
+.hero {
+  height: 100%;
+  background: #499bea;
+  background: -moz-linear-gradient(top,  #499bea 0%, #207ce5 100%);
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#499bea), color-stop(100%,#207ce5));
+  background: -webkit-linear-gradient(top,  #499bea 0%,#207ce5 100%);
+  background: -o-linear-gradient(top,  #499bea 0%,#207ce5 100%);
+  background: -ms-linear-gradient(top,  #499bea 0%,#207ce5 100%);
+  background: linear-gradient(to bottom,  #499bea 0%,#207ce5 100%);
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#499bea', endColorstr='#207ce5',GradientType=0 );
+}
+
+.hero .title {
+  float:left;
+  width:100%;
+  margin-top:120px;
+  text-align:center;
+  font-size: 40px;
+  color:rgb(60, 68, 112);
+}
