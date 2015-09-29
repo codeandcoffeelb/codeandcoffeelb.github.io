@@ -7,16 +7,15 @@
     <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
-        <title>Welcome to Jekyll!</title>
+        <title>Ch-ch-ch-ch-changes...</title>
         
         
-          <description>&lt;p&gt;You&amp;#39;ll find this post in your &lt;code&gt;_posts&lt;/code&gt; directory - edit this post and re-build (or run with the &lt;code&gt;-w&lt;/code&gt; switch) to see your changes!
-To add new posts, simply add a file in the &lt;code&gt;_posts&lt;/code&gt; directory that follows the convention: YYYY-MM-DD-name-of-post.ext.&lt;/p&gt;
+          <description>&lt;p&gt;For the last year or so, James Hall devoted his Saturdays to bringing together a diverse group of hackers from in and around Long Beach in a friendly, casual environment. Friends were made, fun was had, code was written, and bellies filled.&lt;/p&gt;
 </description>
         
-        <pubDate>Sun, 10 Nov 2013 02:18:00 -0800</pubDate>
-        <link>http://your-blog-url.example.com/2013/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2013/welcome-to-jekyll/</guid>
+        <pubDate>Tue, 29 Sep 2015 03:18:00 -0700</pubDate>
+        <link>http://your-blog-url.example.com/2015/change-of-management/</link>
+        <guid isPermaLink="true">http://your-blog-url.example.com/2015/change-of-management/</guid>
       </item>
     
   </channel>
