@@ -1,0 +1,27 @@
+---
+profile: false
+title: "Welcome to Code and Coffee, Long Beach"
+permalink: members/
+---
+<!-- {% include hero.html %} -->
+
+
+<h1>members</h1>
+<div class="posts">
+  {% for post in site.posts %}
+
+    {% assign author = site.authors[post.author] %}
+    {{ author.display_name }}
+
+  {% if post.category == 'member' %}
+  <div class="post">
+    <h2 class="post-title">
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </h2>
+  </div>
+  {% endif %}
+  {% endfor %}
+</div>
+
+{% include footer.html %}
+<!-- {% include follow.html %} -->
