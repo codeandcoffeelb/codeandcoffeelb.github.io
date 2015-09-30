@@ -1,6 +1,6 @@
-name: Code and Coffee, Long Beach
-description: "About the Code and Coffee, Long Beach initiative of Uncoded"
-meta_description: "About the Code and Coffee, Long Beach initiative of Uncoded"
+name: "Code + Coffee / Long Beach"
+description: "About Code + Coffee / Long Beach, an initiative of Uncoded"
+meta_description: "About Code + Coffee / Long Beach, an initiative of Uncoded"
 
 aboutPage: true
 
@@ -9,15 +9,15 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://yourblog-domain.com'
-google_analytics: 'UA-XXXXXXXX-X'
+domain_name: 'http://www.codeandcoffeelb.org'
+google_analytics: 'UA-68278840-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
 # Details for the RSS feed generator
-url:            'http://your-blog-url.example.com'
-author:         'Your Name'
-authorTwitter:  'YourTwitterUsername'
+url:            'http://www.codeandcoffeelb.org'
+author:         'Code + Coffee / Long Beach'
+authorTwitter:  'codeandcoffeelb'
 
 permalink:       /:year/:title/
 
