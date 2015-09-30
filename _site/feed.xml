@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <title>Code and Coffee, Long Beach</title>
-    <description>About the Code and Coffee, Long Beach initiative of Uncoded</description>
-    <link>http://your-blog-url.example.com</link>
-    <atom:link href="http://your-blog-url.example.com/feed.xml" rel="self" type="application/rss+xml" />
+    <title>Code + Coffee / Long Beach</title>
+    <description>About Code + Coffee / Long Beach, an initiative of Uncoded</description>
+    <link>http://www.codeandcoffeelb.org</link>
+    <atom:link href="http://www.codeandcoffeelb.org/feed.xml" rel="self" type="application/rss+xml" />
     
       <item>
         <title>Roger Howard</title>
@@ -14,8 +14,8 @@
 </description>
         
         <pubDate>Tue, 29 Sep 2015 03:18:00 -0700</pubDate>
-        <link>http://your-blog-url.example.com/2015/rogerhoward/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/rogerhoward/</guid>
+        <link>http://www.codeandcoffeelb.org/2015/rogerhoward/</link>
+        <guid isPermaLink="true">http://www.codeandcoffeelb.org/2015/rogerhoward/</guid>
       </item>
     
       <item>
@@ -26,8 +26,8 @@
 </description>
         
         <pubDate>Tue, 29 Sep 2015 03:18:00 -0700</pubDate>
-        <link>http://your-blog-url.example.com/2015/change-of-management/</link>
-        <guid isPermaLink="true">http://your-blog-url.example.com/2015/change-of-management/</guid>
+        <link>http://www.codeandcoffeelb.org/2015/change-of-management/</link>
+        <guid isPermaLink="true">http://www.codeandcoffeelb.org/2015/change-of-management/</guid>
       </item>
     
   </channel>
