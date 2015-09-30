@@ -7,6 +7,7 @@ Code and Coffee, Long Beach is a weekly event bringing together programmers of a
 
 Code and Coffee, Long Beach is an initiative of [Uncoded](http://www.uncoded.org) and supported by [MADE in Long Beach](http://www.madelb.com/)
 
+
 {% include map.html %}
 
 {% include footer.html %}

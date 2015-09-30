@@ -23,3 +23,25 @@ body {
   font-size: 40px;
   color:rgb(60, 68, 112);
 }
+
+#logo {
+  font-size: 0.1em;
+}
+
+#header_logo {
+width:20%;
+}
+
+#floater {
+  width:100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  
+}
+
+@media screen and (max-width: 900px) {
+    .floatinglogo {
+        display: none;
+    }
+}

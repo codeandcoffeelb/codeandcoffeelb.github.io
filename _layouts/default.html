@@ -11,7 +11,18 @@
   <link rel="alternate" type="application/rss+xml" title="My Blog" href="{{ site.baseurl }}rss.xml">
   <link rel="stylesheet" href="{{ site.baseurl }}assets/css/highlight.css">
 </head>
+
+<style type="text/css">
+  @media screen and (max-width: 900px) {
+    .floatinglogo {
+        display: none;
+    }
+}  
+</style>
 <body>
+
+
+  {% include floatingbg.html %}
 
   {% include navigation.html %}
 
