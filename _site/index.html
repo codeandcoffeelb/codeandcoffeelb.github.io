@@ -13,17 +13,39 @@
 </head>
 
 <style type="text/css">
-  @media screen and (max-width: 900px) {
-    .floatinglogo {
+
+ #logo {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 0.3em;
+}
+
+#floatinglogo {
+  width:100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  z-index: -1000;
+  opacity: 0.15;
+}
+
+@media screen and (max-width: 1020px) {
+    #floatinglogo {
         display: none;
     }
-}  
+}
+
+
+
 </style>
 <body>
 
 
-  <div class="floatinglogo" style="position: fixed; left; 0px; top: 0px; z-index: 0; opacity: 0.2;">
-<pre style="background-color: #ffffff; color: #000000; font-size: 0.2em">
+  <div id="floatinglogo">
+<pre id="logo">
                                          x0c.                               
                                          .:OO.                              
                                             xk                              
