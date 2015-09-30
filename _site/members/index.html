@@ -13,6 +13,22 @@
 </head>
 
 <style type="text/css">
+h1 {
+  margin-bottom: 10px;
+}
+
+.content_box {
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #eeeeee;
+}
+
+code {
+  background-color: #eeeeee;
+  font-family: monospace;
+  font-size: 0.9em;
+}
 
  #logo {
   background-color: #ffffff;
@@ -118,28 +134,36 @@
     <!-- Code and Coffee, Long Beach -->
 
 
-<h1>members</h1>
-<div class="posts">
+<h1>hi there.</h1>
+<div id="member_list" class="content_box">
+<h3>meet other members, and <a href="#member_howto">introduce yourself:</a></h3>
   
-
     
+      
+      
+      <h4><a href="/2015/rogerhoward/">Roger Howard</a></h4>
     
-
   
-  <div class="post">
-    <h2 class="post-title">
-      <a href="/2015/rogerhoward/">Roger Howard</a>
-    </h2>
-  </div>
-  
-  
-
     
-    
-
-  
   
 </div>
+
+
+<div id="member_howto" class="content_box">
+<h3>how to add yourself:</h3>
+
+<ol>
+  <li>pick a username based on the name you're commonly known as. All lowercase, no numbers, no punctuation. Mine is <code>rogerhoward</code></li>
+  <li>clone the <a href="https://github.com/codeandcoffeelb/codeandcoffeelb.github.io">repo</a></li>
+  <li>make a new branch off of master, named based on your username, such as <code>members/rogerhoward</code></li>
+  <li>create a new file in <code>/posts/members/</code> named by date and username, such as <code>2015-09-29-rogerhoward.md</code></li>
+  <li>Use another user's file as the starting point for your own. Tell us a bit about yourself.</li>
+  <li>Commit your changes - <a href="http://chris.beams.io/posts/git-commit/">write a good commit message!</a></li>
+  <li>Open a pull request - <a href="https://github.com/blog/1943-how-to-write-the-perfect-pull-request">how to write the perfect pull request.</a></li>
+  <li><a href="https://codeandcoffee.slack.com">Hop on our slack</a> and ask someone to merge it for you!</a></li>
+</ol>
+</div>
+
 
 <footer id="footer">
     <p class="small">Latest build on 2015.09.29 using Jekyll and Github.io</p>
