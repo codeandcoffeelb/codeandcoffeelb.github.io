@@ -1,10 +1,13 @@
 ---
-title:  "Delicious Chicken Sandwhiches!"
-date:   TODAY!
+title:  "Kenneth Chambers"
+date:   10/01/2015
 description: I love eating chicken sandwhiches!
 ---
 
-### Ken Chambers
+### Delicious Chicken Sandwhiches!
+
+##### Also known as "ken Chambers"
+
 
 ###### Here is a picture of a cat in space! You can search [google](https://www.bing.com) for more pictures like this if you would like.
 
