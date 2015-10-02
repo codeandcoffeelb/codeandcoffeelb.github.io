@@ -3,9 +3,16 @@ title: About Code and Coffee, Long Beach
 permalink: about/
 ---
 
-Code and Coffee, Long Beach is a weekly event bringing together programmers of all ages, skills and experiences in a casual environment to share, collaborate, and hack together.
+# code + coffee / long beach
 
-Code and Coffee, Long Beach is an initiative of [Uncoded](http://www.uncoded.org) and supported by [MADE in Long Beach](http://www.madelb.com/)
+A weekly event bringing together programmers of all ages, skills and experiences in a casual environment to share, collaborate, and hack together.
+
+We gather starting at 10am every Saturday at the [MADE in Long Beach](http://www.madelb.com/) store on Pine Avenue. Bring a laptop and an interest in programming.
+
+-----
+
+*code + coffee / long beach* is an initiative of [Uncoded](http://www.uncoded.org) and supported by [MADE in Long Beach](http://www.madelb.com/)
+
 
 {% include map.html %}
 

@@ -1,0 +1,12 @@
+<ul id="member-list">
+    {% for member in paginator.members %}
+        <li>
+            <a href="{{ site.baseurl }}{{ member.url | remove_first: '/' }}"><aside class="dates">{{ member.date | date:"%b %d" }}</aside></a>
+            <a href="{{ site.baseurl }}{{ member.url | remove_first: '/' }}">{{ member.title }} <h2>{{ member.description }}</h2></a>
+        </li>
+    {% endfor %}
+</ul>
+
+{% if paginator.previous_page or paginator.next_page %}
+    {% include pagination.html %}
+{% endif %}
