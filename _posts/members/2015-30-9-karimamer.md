@@ -1,5 +1,5 @@
 ---
-title:  "karim amer"
+title:  "Karim Amer"
 date:   2015-10-1 05:49:00
 category: member
 layout: member
