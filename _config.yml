@@ -9,7 +9,7 @@ highlighter: pygments
 
 paginate: 20
 baseurl: /
-domain_name: 'http://www.codeandcoffeelb.org'
+domain_name: 'www.codeandcoffeelb.org'
 google_analytics: 'UA-68278840-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
