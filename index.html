@@ -2,16 +2,23 @@
 profile: false
 title: "Welcome to Code and Coffee, Long Beach"
 ---
-
+<link href='https://fonts.googleapis.com/css?family=Raleway:100' rel='stylesheet' type='text/css'>
 <style>
 #hero {
   position: absolute;
   top:0;
   left:0;
   width:100%;
-  height:calc(85% - 53px);
+  height:calc(100%);
   background:black;
   z-index:0;
+  -webkit-box-shadow: 10px 5px 81px -5px rgba(122,115,122,1);
+  -moz-box-shadow: 10px 5px 81px -5px rgba(122,115,122,1);
+  box-shadow: 10px 5px 81px -5px rgba(122,115,122,1);
+}
+
+#floatinglogo {
+  display: none;
 }
 
 nav.main-nav {
@@ -21,7 +28,7 @@ nav.main-nav {
   background:transparent;
 }
 #wrapper {
-  margin-top:40%;
+
 }
 
 #hero > .backdrop {
@@ -66,6 +73,7 @@ nav.main-nav {
 #hero .header-content h1 {
   color:white;
   font-size:40px;
+  font-family: Raleway;
 }
 
 #hero .header-content p {
@@ -82,6 +90,10 @@ nav.main-nav {
 #hero .hero-logo pre {
   background: transparent;
   font-size: 2px;
+}
+
+#post-list {
+  margin-top: calc(100% + 200px);
 }
 
 </style>
