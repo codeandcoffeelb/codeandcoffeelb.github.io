@@ -20,5 +20,5 @@ I'm a computer science major at CSULA. I currently work as a freelancer for smal
 Sadly, I have very little time for video games. I spent the bulk of what free time I have working on my 
 > [Youtube channel](www.youtube.com/pizzapokerguy87)
 
-Its just a coding channel dedicated to free tutorials that I personally am doign for the first time and figuring out as well.
+Its just a coding channel dedicated to free tutorials that I personally am doing for the first time and figuring out as I go.
 This is basically my first time using MarkDown and so far it isn't too bad. I'll look forward to messing with it more in the future.
