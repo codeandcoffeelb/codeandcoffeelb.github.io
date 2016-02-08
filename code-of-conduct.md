@@ -33,7 +33,6 @@ If you feel uncomfortable or think there may be a potential violation of the cod
 * Roger Howard - +1 (562) 508-3058, rogerhoward@gmail.com
 
 
-Code && Coffee LB reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io.
-
+Code && Coffee LB reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact C&&C by e-mail at rogerhoward@gmail.com
 This guide was last updated on:
 Xember xx, 2016
