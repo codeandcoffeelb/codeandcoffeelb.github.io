@@ -2,7 +2,7 @@
 
 Last Update: February 8th, 2016
 
-![alt text](http://i.imgur.com/4IpVh2u.jpg "Website Screenshot")
+![alt text](http://i.imgur.com/Mv34V2A.gif "Website Screenshot")
 
 ## Install, and Serve!
 
@@ -10,7 +10,7 @@ This website was built using [Jekyll](https://jekyllrb.com/). So if you are fami
 
 **Setting up your development environment**
 
-To do this, you are going to need a computer preferably running MacOSX or a linux distrubition. I personally use [ElementaryOS](https://elementary.io/).
+To do this, you are going to need a computer preferably running MacOSX or a linux distrubition. I (@torch2424) personally use [ElementaryOS](https://elementary.io/).
 
 Then you should follow this guide provided by [DigitalOcean](https://www.digitalocean.com/) on [Setting up Ruby On Rails with Rbenv on Ubuntu 14.04](https://www.digitalocean.com/community/tutorials/how-to-install-ruby-on-rails-with-rbenv-on-ubuntu-14-04). You are going to need to install a version of ruby >= 2.0.0. I suggest the newest version, and I got it all set up with Ruby v2.2.3
 
@@ -87,4 +87,4 @@ For more info on good github etiquette see below, these were nicely referenced b
 
 ##Licence
 
-To be determined!
+Tentatively is is [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/us/)
