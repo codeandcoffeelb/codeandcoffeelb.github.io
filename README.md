@@ -40,4 +40,51 @@ This should start serving the website on http://0.0.0.0:4000/ for you to make ch
 
 We are open to all contributions by members of our organization, and we suggest all new members create their own [Members Page](http://www.codeandcoffeelb.org/members/) using the [instructions provided on our website](http://0.0.0.0:4000/members/#member_howto)
 
-**However we do have some rules we would like you to follow:**
+**However we do have some rules and general guidelines we would like you to follow:**
+
+1. Everything must start with an issue...
+
+```
+Issues should have useful, concise titles and enough of a description to understand the scope of the issue.
+```
+
+2. Branches should link to individual issues, and be named using consistent syntax:
+
+```
+bug/#123-abbreviated-issue-title
+feature/#123-abbreviated-issue-title
+enhancement/#123-abbreviated-issue-title
+```
+
+3. A branch should represent an atomic change
+
+```
+Merging the branch to master should not break anything in master. A branch should be fully testable and functional once finished - I should be able to deploy any given branch and have a functional site.
+```
+
+4. Pull requests may not be merged by the requester. Ever.
+
+```
+Even me...
+```
+
+5. Once a pull request is merged, the branch should be removed.
+
+```
+Just basic cleanup.
+```
+
+6. Pull Requests should use Github keywords so they automatically link to/close related issues.
+
+```
+For reference: https://help.github.com/articles/closing-issues-via-commit-messages/
+```
+
+For more info on good github etiquette see below, these were nicely referenced by @karimamer :
+
+[Git - Contributing to a Project](http://git-scm.com/book/ch5-2.html)
+[Who-T - On Commit Messages](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
+
+##Licence
+
+To be determined!
