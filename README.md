@@ -1,3 +1,5 @@
-# Welcome to the repo for the codeandcoffeelb website
+# Welcome to the official repo for the [CodeandCoffeeLB](http://codeandcoffeelb.github.io/) website
 
-http://codeandcoffeelb.github.io/
+Last Update: February 8th, 2016
+
+![alt text](http://i.imgur.com/4IpVh2u.jpg "Website Screenshot")
