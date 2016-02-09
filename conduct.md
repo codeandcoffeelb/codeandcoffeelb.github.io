@@ -1,10 +1,10 @@
 ---
 profile: false
-title: "Welcome to Code and Coffee, Long Beach"
+title: "Welcome to Code && Coffee, Long Beach"
 permalink: conduct/
 ---
 
-# Code and Coffee Pledge of Conduct
+# Code && Coffee Pledge of Conduct
 ## For review and editing - not adopted yet
 
 As a participator in Code && Coffee, I hereby pledge the following:
@@ -17,9 +17,9 @@ As a participator in Code && Coffee, I hereby pledge the following:
 
 I hereby acknowledge that my status as participator in this event may be terminated at any time if, in the sole opinion of the event organizers, I have been determined to break this pledge.
 
------
+<small>Based on [LambdaConf's Pledge of Conduct](http://lambdaconf.us/)</small>
 
-### Based on LambdaConf's Pledge of Conduct http://lambdaconf.us/
+-----
 
 {% include follow.html %}
 {% include footer.html %}
