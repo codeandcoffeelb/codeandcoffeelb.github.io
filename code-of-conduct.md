@@ -1,8 +1,5 @@
-# Code of Conduct
-## For review and editing - not adopted yet
-
-
 # Code and Coffee Pledge of Conduct
+## For review and editing - not adopted yet
 
 As a participator in Code && Coffee, I hereby pledge the following:
 
@@ -16,5 +13,4 @@ I hereby acknowledge that my status as participator in this event may be termina
 
 -----
 
-## Based on LambdaConf's Pledge of Conduct http://lambdaconf.us/
------
+### Based on LambdaConf's Pledge of Conduct http://lambdaconf.us/
