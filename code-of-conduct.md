@@ -8,14 +8,17 @@ Original MLH CofC below in Markdown - well begin editing with this as a starting
 
 -----
 
-# Code Pledge
+# Code and Coffee Pledge
 
-* That in the words I speak and the actions I take, I shall demonstrate respect, dignity, and empathy for my fellow human beings
-* that when I disagree with ideas, I will do so constructively, respectfully, and graciously; 
-* and that I will communicate non-violently with empathy and honest self-expression; 
+As a participator in Code && Coffee, I hereby pledge the following:
+
+* That in the words I speak and the actions I take, I shall demonstrate respect, dignity, and empathy for my fellow human beings; that when I disagree with ideas, I will do so constructively, respectfully, and graciously; and that I will communicate non-violently with empathy and honest self-expression;
 * That I shall embrace and celebrate the abundant diversity in the human species, and refuse to feel threatened by those different from me;
-* That if I become aware of any behavior by others which is inconsistent with this pledge, I shall take immediate action to report such behavior to event organizers; 
-* That if there comes a time I no longer wish to keep this code of conduct, or if I want only behave in a manner inconsistent with these promises, I shall immediately cease participation in the event
+* That I shall not talk or act in ways that could make minority groups feel bullied, harassed, intimidated, stalked, stereotyped, or belittled; examples of minority groups include women, people of color, lesbians, gays, and people who are disabled, bisexual, transsexual, asexual, intersex, transgender, and gender-variant;
+* That if I become aware of any behavior by others which is inconsistent with this pledge, I shall take immediate action to report such behavior to event organizers;
+* That if there comes a time I no longer wish to keep this pledge, or if I wantonly behave in a manner inconsistent with these promises, I shall immediately cease participation in the event, without expectation of refund or redress.
+
+I hereby acknowledge that my status as participator in this event may be terminated at any time if, in the sole opinion of the event organizers, I have been determined to break this pledge.
 
 -----
 
@@ -43,7 +46,12 @@ If you feel uncomfortable or think there may be a potential violation of the cod
 
 * Roger Howard - +1 (562) 508-3058, rogerhoward@gmail.com
 
+<<<<<<< HEAD
 Code && Coffee LB reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact C&&C by e-mail at hi@mlh.io.
 
+=======
+
+Code && Coffee LB reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact C&&C by e-mail at rogerhoward@gmail.com
+>>>>>>> origin/feature/#39-code-of-conduct
 This guide was last updated on:
 Xember xx, 2016
