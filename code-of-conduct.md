@@ -8,7 +8,18 @@ Original MLH CofC below in Markdown - well begin editing with this as a starting
 
 -----
 
-Code of Conduct
+# Code Pledge
+
+* That in the words I speak and the actions I take, I shall demonstrate respect, dignity, and empathy for my fellow human beings
+* that when I disagree with ideas, I will do so constructively, respectfully, and graciously; 
+* and that I will communicate non-violently with empathy and honest self-expression; 
+* That I shall embrace and celebrate the abundant diversity in the human species, and refuse to feel threatened by those different from me;
+* That if I become aware of any behavior by others which is inconsistent with this pledge, I shall take immediate action to report such behavior to event organizers; 
+* That if there comes a time I no longer wish to keep this code of conduct, or if I want only behave in a manner inconsistent with these promises, I shall immediately cease participation in the event
+
+-----
+
+MLH Code of Conduct
 
 TL;DR. Be respectful. Harassment and abuse are never tolerated. If you are in a situation that makes you uncomfortable at an officially sanctioned Code && Coffee LB (C&&C) event, if the event itself is creating an unsafe or inappropriate environment, or if interacting with a C&&C representative or event organizer makes you uncomfortable, please report it using the procedures included in this document.
 
@@ -32,8 +43,7 @@ If you feel uncomfortable or think there may be a potential violation of the cod
 
 * Roger Howard - +1 (562) 508-3058, rogerhoward@gmail.com
 
-
-Code && Coffee LB reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact MLH by e-mail at hi@mlh.io.
+Code && Coffee LB reserves the right to revise, make exceptions to, or otherwise amend these policies in whole or in part. If you have any questions regarding these policies, please contact C&&C by e-mail at hi@mlh.io.
 
 This guide was last updated on:
 Xember xx, 2016
