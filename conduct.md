@@ -1,3 +1,9 @@
+---
+profile: false
+title: "Welcome to Code and Coffee, Long Beach"
+permalink: conduct/
+---
+
 # Code and Coffee Pledge of Conduct
 ## For review and editing - not adopted yet
 
@@ -14,3 +20,6 @@ I hereby acknowledge that my status as participator in this event may be termina
 -----
 
 ### Based on LambdaConf's Pledge of Conduct http://lambdaconf.us/
+
+{% include follow.html %}
+{% include footer.html %}
