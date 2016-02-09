@@ -5,7 +5,6 @@ permalink: conduct/
 ---
 
 # Code && Coffee Pledge of Conduct
-## For review and editing - not adopted yet
 
 As a participator in Code && Coffee, I hereby pledge the following:
 
