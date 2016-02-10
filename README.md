@@ -44,13 +44,13 @@ We are open to all contributions by members of our organization, and we encourag
 
 1. Everything must start with an issue...
 
-> Issues should have useful, concise titles and enough of a description to understand the scope of the issue.
+	* Issues should have useful, concise titles and enough of a description to understand the scope of the issue.
 
 2. Branches should link to individual issues, and be named using consistent syntax:
 
-> bug/#123-abbreviated-issue-title
-> feature/#123-abbreviated-issue-title
-> enhancement/#123-abbreviated-issue-title
+	* > bug/#123-abbreviated-issue-title
+	> feature/#123-abbreviated-issue-title
+	> enhancement/#123-abbreviated-issue-title
 
 3. A branch should represent an atomic change
 
