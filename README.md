@@ -43,17 +43,14 @@ We are open to all contributions by members of our organization, and we encourag
 **However, we do have some rules and general guidelines we would like you to follow:**
 
 1. Everything must start with an issue...
-
 	* Issues should have useful, concise titles and enough of a description to understand the scope of the issue.
 
 2. Branches should link to individual issues, and be named using consistent syntax consisting of "issue type", "issue number", and an descriptive title (using hyphens for spaces, and all lower case). Examples:
-
 	* bug/#123-abbreviated-issue-title
 	* feature/#123-abbreviated-issue-title
 	* enhancement/#123-abbreviated-issue-title
 
 3. A branch should represent an atomic change
-
 	* Merging the branch should not break anything. A branch should be fully testable and functional once finished - I should be able to deploy any given branch and have a functional site.
 
 4. All pull requests should merge to development. Only an admin should merge to master.
@@ -63,10 +60,8 @@ We are open to all contributions by members of our organization, and we encourag
 6. Once a pull request is merged, the branch should be removed.
 
 7. Pull Requests should use Github keywords so they automatically link to/close related issues.
-
 	* For reference: https://help.github.com/articles/closing-issues-via-commit-messages/
 
-For more info on good github etiquette see below, these were nicely referenced by @karimamer :
-
-[Git - Contributing to a Project](http://git-scm.com/book/ch5-2.html)
-[Who-T - On Commit Messages](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
+8. Always follow good Github etiquette. Several helpful reads on the topic:
+	* [Git - Contributing to a Project](http://git-scm.com/book/ch5-2.html)
+	* [Who-T - On Commit Messages](http://who-t.blogspot.com/2009/12/on-commit-messages.html)
