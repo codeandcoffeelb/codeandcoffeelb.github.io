@@ -46,15 +46,15 @@ We are open to all contributions by members of our organization, and we encourag
 
 	* Issues should have useful, concise titles and enough of a description to understand the scope of the issue.
 
-2. Branches should link to individual issues, and be named using consistent syntax:
+2. Branches should link to individual issues, and be named using consistent syntax consisting of "issue type", "issue number", and an descriptive title (using hyphens for spaces, and all lower case). Examples:
 
-	* > bug/#123-abbreviated-issue-title
-	> feature/#123-abbreviated-issue-title
-	> enhancement/#123-abbreviated-issue-title
+	* bug/#123-abbreviated-issue-title
+	* feature/#123-abbreviated-issue-title
+	* enhancement/#123-abbreviated-issue-title
 
 3. A branch should represent an atomic change
 
-> Merging the branch should not break anything. A branch should be fully testable and functional once finished - I should be able to deploy any given branch and have a functional site.
+	* Merging the branch should not break anything. A branch should be fully testable and functional once finished - I should be able to deploy any given branch and have a functional site.
 
 4. All pull requests should merge to development. Only an admin should merge to master.
 
@@ -64,7 +64,7 @@ We are open to all contributions by members of our organization, and we encourag
 
 7. Pull Requests should use Github keywords so they automatically link to/close related issues.
 
-> For reference: https://help.github.com/articles/closing-issues-via-commit-messages/
+	* For reference: https://help.github.com/articles/closing-issues-via-commit-messages/
 
 For more info on good github etiquette see below, these were nicely referenced by @karimamer :
 
