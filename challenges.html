@@ -1,0 +1,23 @@
+---
+profile: false
+title: "Welcome to Code and Coffee, Long Beach"
+permalink: challenges/
+---
+<!-- {% include hero.html %} -->
+
+
+<h1>hi there.</h1>
+<div id="member_list" class="content_box">
+<h3>meet other members, and <a href="#member_howto">introduce yourself:</a></h3>
+  {% for post in site.posts %}
+    {% if post.category == 'challenge' %}
+      {% assign author = site.authors[post.author] %}
+      {{ author.display_name }}
+      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+    {% endif %}
+  {% endfor %}
+</div>
+
+
+{% include footer.html %}
+<!-- {% include follow.html %} -->
