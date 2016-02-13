@@ -1,6 +1,6 @@
 ---
 title:  "Green Squares"
-date:   2015-09-01 10:00:00
+date:   2015-09-05 10:00:00
 category: challenge
 layout: challenge
 permalink: /challenges/greensquares
