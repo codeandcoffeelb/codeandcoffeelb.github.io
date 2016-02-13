@@ -51,3 +51,18 @@ code {
     }
 }
 
+
+
+.post-date {
+  color: #aaaaaa;
+}
+
+#greensquare {
+  float: left;
+  width: 200px;
+  height: 200px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  background-color: #007700;
+}
+
