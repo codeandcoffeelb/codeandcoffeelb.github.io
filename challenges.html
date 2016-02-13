@@ -3,21 +3,25 @@ profile: false
 title: "Welcome to Code and Coffee, Long Beach"
 permalink: challenges/
 ---
-<!-- {% include hero.html %} -->
 
+<h1>Challenges</h1>
 
-<h1>Challenges.</h1>
-<div id="member_list" class="content_box">
-<h3>meet other members, and <a href="#member_howto">this is Code + coffee's challenges</a></h3>
+<p>Every weekend Code &amp;&amp; Coffee has a variety of activities, including group discussions, lightning talks, and - ocassionally - challenges. Challenges should be fun and offer something interesting to every skill level.</p>
+
+<div id="challenge_list" class="content_box">
+
+<h3>our challenges...</h3>
+
   {% for post in site.posts %}
     {% if post.category == 'challenge' %}
       {% assign author = site.authors[post.author] %}
       {{ author.display_name }}
-      <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+      <h4><a href="{{ post.url }}">{{ post.title }}</a> <span class="post-date">{{ post.date | date:"%b %d %Y" }}</span></h4>
     {% endif %}
   {% endfor %}
+
 </div>
 
+<p>If you have an idea for a new challenge, send @rogerhoward a private message (to avoid spoilers).</p>
 
 {% include footer.html %}
-<!-- {% include follow.html %} -->
