@@ -1,0 +1,24 @@
+---
+title:  "Welcome, Code + Coffeeites, new and old..."
+date:   2015-10-13 23:35:00
+description: "It's beginning to feel a lot like community."
+---
+
+As host of Code + Coffee, LB, it makes my heart sing to see so many new faces mixing so well with those who've been attending a bit longer. For the past few weeks we've been doing a lot barn raising around here and I'm quite happy with what we've seen happen. 
+
+First, we've got the makings of a community-built website. This site, right here. Built on Github Pages, Jekyll, and a custom domain name, inspired by [Uncoded][uncodedlb]. This use of Github for compiling a site with Jekyll, deploying and hosting on Github.io was a revelation to me and I soon realized it'd be a great way to get our attendees to dip their toes in the Github waters. And so our [Members][members] pages were born - a simple tutorial teaching the basics of Github workflow: clone, branch, edit a markdown file, commit, pull request, and you have your very own page on this site.
+
+Second, we've got free coffee. No big deal, but it was kind of promised in the name of the event, so I figured we should start there.
+
+Next, we've spun up a lot of other infrastructure. There's our active Twitter account, [@codeandcoffeelb][twitter] and our new [Facebook group][facebook]. As a group for coders, naturally we needed our very own [Github organization][github]. And finally, for realtime chat, we've got the [Code + Coffee Slack][slack]. Are we missing anything?
+
+Finally, I want to make sure everyone is being well taken care of, so if there's anything we can do better please let me know.
+
+[uncodedlb]: http://www.uncoded.org
+[aboutcclb]: /about
+[members]: /members
+[changes]: /2015/change-of-management
+[twitter]: http://twitter.com/codeandcoffeelb
+[facebook]: https://www.facebook.com/groups/codeandcoffeelb
+[github]: https://github.com/codeandcoffeelb
+[slack]: https://codeandcoffee.slack.com

@@ -4,8 +4,8 @@ meta_description: "About Code + Coffee / Long Beach, an initiative of Uncoded"
 
 aboutPage: true
 
-markdown: redcarpet
-highlighter: pygments
+markdown: kramdown
+highlighter: rouge
 
 paginate: 20
 baseurl: /
