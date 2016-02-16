@@ -16,5 +16,9 @@
     {% if page.url != "/challenges/" %}
             <a href="/challenges/">challenges </a>
     {% endif %}
-    <a class="cta" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+
+    {% if page.url != "/conduct/" %}
+            <a href="/conduct/">conduct </a>
+    {% endif %}
+
 </nav>
