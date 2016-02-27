@@ -9,7 +9,7 @@ permalink: /challenges/write-a-scripting-language
 Writing your own scripting language is a fun challenge and a good exercise. If you ever wanted to
 write your own "perfect" language, now's your chance!
 
-Examples of some scripting lagnauges:
+Examples of some scripting languages:
    - Bash
    - Python
    - Javascript
