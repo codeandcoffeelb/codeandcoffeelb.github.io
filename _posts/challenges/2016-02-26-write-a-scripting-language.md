@@ -17,14 +17,14 @@ Examples of some scripting lagnauges:
    - Perl
    - PHP
 
-Examples of some less useful and smaller langauges:
+Examples of some less useful and smaller languages:
 
   - [Trumpscript](https://github.com/samshadwell/TrumpScript)
   - [Brainfuck](https://github.com/redevined/brainfuck)
   - [Piet](http://www.dangermouse.net/esoteric/piet.html)
 
 
-Here's this week's challenge. Write a langauge! 
+Here's this week's challenge. Write a language! 
 
   - Give it a name
   - Give it an extension `(.txt, .py, .s)`
@@ -35,4 +35,4 @@ Your scripting language should be able to do the following:
   - Display a green rectangle (anyway you can)
   - Compute FizzBuzz 
 
-You can do this any way you wish. The more creative the better! 
+You may do this any way you wish. The more creative the better! 
