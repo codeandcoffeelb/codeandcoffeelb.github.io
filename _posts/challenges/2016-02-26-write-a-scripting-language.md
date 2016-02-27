@@ -6,7 +6,6 @@ layout: challenge
 permalink: /challenges/write-a-scripting-language
 ---
 
-# Write Your Own Scripting Language
 
 Writing your own scripting language is a fun challenge and a good exercise. If you ever wanted to
 write your own "perfect" language, now's your chance!
