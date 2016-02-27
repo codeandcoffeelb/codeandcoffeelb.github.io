@@ -6,8 +6,6 @@ layout: challenge
 permalink: /challenges/write-a-scripting-language
 ---
 
-# Write Your Own Scripting Language
-
 Writing your own scripting language is a fun challenge and a good exercise. If you ever wanted to
 write your own "perfect" language, now's your chance!
 
@@ -19,10 +17,11 @@ Examples of some scripting lagnauges:
    - Perl
    - PHP
 
-Examples of some less useful and smaller langauges
+Examples of some less useful and smaller langauges:
 
   - [Trumpscript](https://github.com/samshadwell/TrumpScript)
   - [Brainfuck](https://github.com/redevined/brainfuck)
+  - [Piet](http://www.dangermouse.net/esoteric/piet.html)
 
 
 Here's this week's challenge. Write a langauge! 
