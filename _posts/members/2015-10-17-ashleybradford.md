@@ -1,6 +1,6 @@
 ---
 title:  "Ashley Bradford"
-date:   2015-10-17 08:50:00
+date:   2016-4-15 17:27:00
 category: member
 layout: member
 ---
@@ -9,7 +9,12 @@ layout: member
 
 </style>
 
-![alt-text](https://s3-us-west-1.amazonaws.com/avojeez0-public/ashley-bradford-loves-javascript.png)
+<img style="width:100%; left-margin:10%" src="/assets/images/ashley-bradford-cit.jpg">
 
-## Ashley Bradford
-I am Ashley Bradford, a titan of javascript. My hobbies include writing javascript, going to javascript meetups (as shown above), reading javascript books, discussing the finer points of javascript with fellow javscriptites. The only feeling I have that is stronger than my love for javascript is my disdain for php. php? YUCK! gross language. The world is moving forward, come on guys catch up. Php is dead, you heard it here first. 
+I'm around from time to time. And then other times not at all.<br>
+But then isn't that true for all of us.<br>
+<br>
+More to come about the how, who and why soon.<br>
+In the meantime, I'll see you around.<br>
+Or then maybe I won't.<br><br>
+But if I do, I'll probably be pretty excited about it.
