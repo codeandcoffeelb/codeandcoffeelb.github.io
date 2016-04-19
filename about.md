@@ -11,7 +11,7 @@ We gather starting at 10am every Saturday at [CritiqueIt, Inc.](http://www.criti
 
 -----
 
-*code + coffee / long beach* is an initiative of [Uncoded](http://www.uncoded.org) and supported by [CritiqueIt, Inc.](http://www.critiqueit.com/)
+*code + coffee / long beach* is an independent event, with venue support by [CritiqueIt, Inc.](http://www.critiqueit.com/)
 
 
 {% include map.html %}
