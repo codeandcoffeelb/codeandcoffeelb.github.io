@@ -20,9 +20,15 @@ git clone git://github.com/sstephenson/ruby-build.git ~/.rbenv/plugins/ruby-buil
 echo 'export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"' >> ~/.profile
 source ~/.profile
 
+
 rbenv install -v 2.2.3
 rbenv global 2.2.3
-# gem install bundler
+gem install bundler
 
-# cd /vagrant
-# bundle install
+cd /vagrant
+bundle install
+
+echo "Congratulations, your Jekyll VM is ready."
+echo "Connect by running 'vagrant ssh'"
+echo "You can find your source code at /vagrant"
+echo "Run the server from within /vagrant: bundle exec jekyll serve --host 0.0.0.0 --port 8124"
