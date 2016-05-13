@@ -2,6 +2,12 @@ name: "Code + Coffee / Long Beach"
 description: "About Code + Coffee / Long Beach"
 meta_description: "About Code + Coffee / Long Beach"
 
+# Source dir
+source: _source
+
+# Destination
+destination: _site
+
 aboutPage: true
 
 markdown: kramdown
