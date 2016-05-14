@@ -237,7 +237,7 @@ nav.main-nav a {
   });
 </script>
 
-<!-- I'm not big fan of Markup... -->
+<!-- I'm not big fan of Markdown... -->
 
 <div id="ngp_logo" src="/assets/images/ngp.jpg">Nico Gauthier-Pin</div>
 
