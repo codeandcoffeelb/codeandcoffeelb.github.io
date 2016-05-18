@@ -5,7 +5,6 @@ category: member
 layout: member
 ---
 
-![train_gif](http://i801.photobucket.com/albums/yy292/jacobflores562/trains_zpsxywy6k11.gif)
 #Hello World
 
 ##My name is Jacob E. Flores
