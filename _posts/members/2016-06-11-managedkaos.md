@@ -22,6 +22,7 @@ I'm all over the social webs with a couple blogs, twitters, and instagrams cover
 <h3>All Things Tech: Managed Kaos</h3>
 
 - <a href="http://managedkaos.com" target="_blank">Website: ManagedKaos.com</a>
+- <a href="https://github.com/managedkaos" target="_blank">GitHub: @managedkaos</a>
 - <a href="https://twitter.com/ManagedKaos" target="_blank">Twitter: @managedkaos</a>
 - <a href="https://www.linkedin.com/in/michaelpjenkins" target="_blank">Linked In: Michael P. Jenkins</a>
 
