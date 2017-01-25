@@ -5,14 +5,12 @@ category: challenge
 layout: challenge
 permalink: /challenges/make-a-game-coffee
 ---
-Coffee is a very important thing. We need coffee. 
-
-It keeps us awake while we drag ourselves out of bed to a 10 AM meetup.
+Coffee is a very important thing. We all need coffee. It keeps us awake while we drag ourselves out of bed to a 10 AM meetup.
 
 So for this challenge, let's honor our favorite beverage by making games for it.
 
 You're free to use whatever language or framework you'd like. Bonus points for
-using something no one has heard of.
+using something no one has heard of. 
 
 ## Rules
 1. It has to run at least on your machine
