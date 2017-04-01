@@ -7,7 +7,9 @@ permalink: about/
 
 A weekly event bringing together programmers of all ages, skills and experiences in a casual environment to share, collaborate, and hack together.
 
-We gather starting at 10am every Saturday at [CritiqueIt, Inc.](http://www.critiqueit.com/) offices in the Pacific Tower at corner of Long Beach Blvd. and Broadway in downtown Long Beach. Bring a laptop and an interest in programming.
+We usually* gather at 10:30am on Saturdays in the [CritiqueIt, Inc.](http://www.critiqueit.com/) offices on the 5th floor of the Pacific Tower at the corner of Long Beach Blvd. and Broadway in downtown Long Beach. Bring a laptop and an interest in programming.
+
+<em>* Always be sure to <a href="https://www.meetup.com/code-and-coffee-long-beach/">check our Meetup.com page</a> for the current schedule, as we occassionally skip a weekend or meet elsewhere.</em>
 
 -----
 
