@@ -10,7 +10,7 @@ highlighter: rouge
 paginate: 20
 baseurl: /
 domain_name: 'www.codeandcoffeelb.org'
-# google_analytics: 'UA-68278840-1'
+google_analytics: 'UA-68278840-1'
 disqus: false
 disqus_shortname: 'your-disqus-shortname'
 
