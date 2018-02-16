@@ -19,8 +19,6 @@ layout: member
 }
 </style>
 
-
-
 <img class="headshot" src="/assets/images/abraham_cuenca.jpg" alt="Abraham Cuenca a.k.a. YourWebDevGuy">
 I'm a Full-Stack JavaScript (MERN) developer. I design and build web applications, but sometimes I design and build other stuff too.
 
@@ -28,9 +26,8 @@ I enjoy working in a terminal or a code editor so I spend a lot of time in there
 
 Join me at Code & Coffee so we can talk code!
 
--  <i class="fa fa-github"> [Github Profile](https://www.github.com/yourwebdevguy)</i>
--  <i class="fa fa-linkedin"></i> [LinkedIn Profile](https://www.linkedin.com/in/abrahamcuenca)
+- <i class="fa fa-github"> [Github Profile](https://www.github.com/yourwebdevguy)</i>
+- <i class="fa fa-linkedin"></i> [LinkedIn Profile](https://www.linkedin.com/in/abrahamcuenca)
 - <i class="fa fa-twitter"></i> [@YourWebDevGuy](https://www.twitter.com/@yourwebdevguy)
 - <i class="fa fa-envelope"></i> [Hello@YourWebDevGuy.com](mailto://hello@yourwebdevguy.com)
 - <i class="fa fa-briefcase"></i> [Portfolio](http://www.abrahamcuenca.com)
-  
