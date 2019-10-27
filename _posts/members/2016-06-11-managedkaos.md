@@ -11,7 +11,7 @@ I'm all over the map when it comes to computer technologies thanks to a short at
 
 I've done programming, circuit design, and a lot of system administration on Windows, Linux (mostly this lately), and even Unix (HPUX/Solaris/AIX)!
 
-These days I'm what they call a Systems Reliability Engineer.  I make sure code gets deployed properly and then I monitor the sites to make sure they stay up and running.  When !#@$@% hits the fan, I'm the guy they call to clean things up.  Then I document what happened and take steps to make sure it dosen't happen again.  I currently have the AWS CSA Associate and Developer certs and I'm working on the SysOps Professional cert.
+These days I'm what they call a Systems Reliability Engineer.  I make sure code gets deployed properly and then I monitor the sites to make sure they stay up and running.  When !#@$@% hits the fan, I'm the guy they call to clean things up.  Then I document what happened and take steps to make sure it dosen't happen again.  I currently have the AWS Solutions Architect and Developer certs at the associate level; I'm working on the SysOps Professional cert.
 
 I'm also a contributor to Linked In Learning.  I've authored a few classes and I'm working on more.
 
