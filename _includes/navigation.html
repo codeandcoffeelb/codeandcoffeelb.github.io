@@ -1,24 +1,24 @@
 <nav class="main-nav">
     {% if page.url != "/index.html" %}
-        <a href="{{ site.baseurl }}" class="text--orange"> <span class="arrow">←</span> home </a>
+        <a href="{{ site.baseurl }}" class="text--black"> <span class="arrow">←</span> home </a>
     {% endif %}
 
     {% if page.url != "/about/" %}
         {% if site.aboutPage %}
-            <a href="{{ site.baseurl }}about" class="text--orange">about </a>
+            <a href="{{ site.baseurl }}about" class="text--black">about </a>
         {% endif %}
     {% endif %}
 
     {% if page.url != "/members/" %}
-            <a href="/members/" class="text--orange">members </a>
+            <a href="/members/" class="text--black">members </a>
     {% endif %}
 
     {% if page.url != "/challenges/" %}
-            <a href="/challenges/" class="text--orange">challenges </a>
+            <a href="/challenges/" class="text--black">challenges </a>
     {% endif %}
 
     {% if page.url != "/conduct/" %}
-            <a href="/conduct/" class="text--orange">conduct </a>
+            <a href="/conduct/" class="text--black">conduct </a>
     {% endif %}
 
 </nav>
