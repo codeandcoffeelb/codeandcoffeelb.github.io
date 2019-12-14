@@ -10,3 +10,4 @@ kill:
 	docker-compose kill	
 clean:
 	docker-compose stop
+	docker-compose rm
