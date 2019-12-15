@@ -14,25 +14,16 @@ This website was built using [Jekyll](https://jekyllrb.com/). So if you are fami
 
 **Setting up your development environment**
 
-To do this, you are going to need a computer capable of running Ruby - while Mac OSX or Linux tends to be easiest, plenty of people do Ruby development on Windows as well. If you're not on Mac OSX, you will likely need to install Ruby yourself.
+You need to install [Docker](https://docker.com) and [docker-compose](https://docs.docker.com/compose) and have GNU Make available.
 
-**Install Gems and Serving the Website**
+To run setup the environment run this in your terminal:
 
-The required gems for this project are [Bundler](http://bundler.io/) and [Jekyll](https://jekyllrb.com/). Once you have Ruby installed, open your terminal, `cd` to the local repo directory, and run the following commands:
+```make shell```
 
-```
-gem install jekyll
-gem install bundle
-```
+This will setup docker-compose and start a bash session with jekyll inside. When you're in the shell, run: 
 
-This will install Bundler and Jekyll. If you have any errors, check to be sure you have installed Ruby correctly.
+```jekyll serve --watch```
 
-Next, install the projects dependencies and serve:
-
-```
-bundle install
-bundle exec jekyll serve
-```
 
 This should start serving the website on http://0.0.0.0:4000/ - simply make changes to the source code and can see your changes live at that URL!
 
