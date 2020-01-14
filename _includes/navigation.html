@@ -1,24 +1,10 @@
 <nav class="main-nav">
-    {% if page.url != "/index.html" %}
-        <a href="{{ site.baseurl }}" class="text--black"> <span class="arrow">←</span> home </a>
+    {% if page.url != "/" %}
+        <a href="/" class="text--black"><span class="arrow">←</span>home</a>
     {% endif %}
-
-    {% if page.url != "/about/" %}
-        {% if site.aboutPage %}
-            <a href="{{ site.baseurl }}about" class="text--black">about </a>
-        {% endif %}
-    {% endif %}
-
-    {% if page.url != "/members/" %}
-            <a href="/members/" class="text--black">members </a>
-    {% endif %}
-
-    {% if page.url != "/challenges/" %}
-            <a href="/challenges/" class="text--black">challenges </a>
-    {% endif %}
-
-    {% if page.url != "/conduct/" %}
-            <a href="/conduct/" class="text--black">conduct </a>
-    {% endif %}
-
+    {% for navigation_item in site.data.navigation.navigation_items %}
+        <a href="{{ site.baseurl | append: navigation_item.path }}" class="text--black">
+            {{ navigation_item.title }}
+        </a>
+    {% endfor %}
 </nav>
