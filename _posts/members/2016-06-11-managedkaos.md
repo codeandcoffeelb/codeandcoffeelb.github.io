@@ -1,6 +1,6 @@
 ---
 title:  "Michael Jenkins"
-date:   2016-06-11 11:44:00
+date:   2020-10-07 17:36:23
 category: member
 layout: member
 ---
@@ -13,7 +13,7 @@ I've done programming, circuit design, and a lot of system administration on Win
 
 These days I'm what they call a Systems Reliability Engineer.  I make sure code gets deployed properly and then I monitor the sites to make sure they stay up and running.  When !#@$@% hits the fan, I'm the guy they call to clean things up.  Then I document what happened and take steps to make sure it dosen't happen again.  I currently have the AWS Solutions Architect and Developer certs at the associate level; I'm working on the SysOps Professional cert.
 
-I'm also a contributor to Linked In Learning.  I've authored a few classes and I'm working on more.
+I'm also an author at <a href="https://www.linkedin.com/learning/instructors/michael-jenkins">Linked In Learning</a> and <a href="https://app.pluralsight.com/profile/author/michael-jenkins">Pluralsight</a>.  I've authored several classes, mostly on DevOps topics including CI/CD.
 
 Glad to be a part of the Code & Coffee crew because its a great space for bi-directional mentoring; I feel like a "seasoned" nerd learning from the younger folks on the team!  I'm also glad to share my experience with them.
 
