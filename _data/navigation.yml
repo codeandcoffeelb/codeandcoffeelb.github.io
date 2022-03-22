@@ -1,0 +1,12 @@
+navigation_items:
+  - title: about
+    path: about
+
+  - title: members
+    path: members
+
+  - title: challenges
+    path: challenges
+
+  - title: conduct
+    path: conduct
